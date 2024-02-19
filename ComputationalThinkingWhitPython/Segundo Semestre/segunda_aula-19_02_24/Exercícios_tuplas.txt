@@ -1,0 +1,9 @@
+1. Crie uma tupla chamada frutas com os seguintes elementos: 'maçã', 'banana', 'laranja', 'uva'. DONE
+2. Acesse o segundo elemento da tupla frutas. DONE
+3. Substitua o terceiro elemento da tupla frutas por 'manga' e armazene a tupla modificada em uma nova variável chamada frutas_modificadas. DONE
+4. Concatene a tupla frutas_modificadas com a tupla ('abacaxi', 'limão') e armazene o resultado em uma nova tupla chamada frutas_concatenadas. DONE
+5. Verifique se o elemento 'uva' está presente na tupla frutas_concatenadas. DONE
+6. Descubra o índice do elemento 'banana' na tupla frutas_concatenadas. DONE
+7. Conte quantas vezes o elemento 'uva' aparece na tupla frutas_concatenadas. DONE
+8. Crie uma tupla chamada numeros com os números de 1 a 5. DONE
+9. Multiplique cada elemento da tupla numeros por 2 e armazene o resultado em uma nova tupla chamada numeros_dobrados. DONE
