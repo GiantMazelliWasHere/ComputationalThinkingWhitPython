@@ -1,0 +1,10 @@
+Exercício de Criação: Crie uma Pandas Series contendo os números de 1 a 10.
+Exercício de Acesso: Acesse o terceiro elemento de uma Pandas Series e imprima seu valor.
+Exercício de Soma: Some duas Pandas Series contendo os números de 1 a 5 e os números de 6 a 10, respectivamente.
+Exercício de Filtragem: Crie uma Pandas Series contendo os números de 1 a 10 e exiba apenas os valores maiores que 5.
+Exercício de Estatísticas: Calcule a média e o desvio padrão de uma Pandas Series contendo os números de 1 a 10.
+Exercício de Concatenação: Concatene duas Pandas Series contendo os números de 1 a 5 e 6 a 10, respectivamente, em uma única Series.
+Exercício de Subtração: Subtraia uma Pandas Series contendo os números de 1 a 10 por uma outra Series contendo os números de 10 a 1.
+Exercício de Ordenação: Ordene uma Pandas Series contendo os números de 1 a 10 em ordem decrescente.
+Exercício de Verificação de Valores Únicos: Verifique se há valores duplicados em uma Pandas Series contendo os números de 1 a 10.
+Exercício de Slicing: Utilize slicing para selecionar os elementos de uma Pandas Series do terceiro ao sétimo elemento.
